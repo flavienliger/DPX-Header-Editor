@@ -344,7 +344,6 @@ var dpxFile = function(bf){
       
       function* wait(arr){
         for(var i=0; i<arr.length; i++)
-          arr[i].val = parse('write', arr[i].sub, arr[i].val);
           yield i;
       } 
       
