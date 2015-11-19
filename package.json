@@ -1,0 +1,30 @@
+{
+  "name": "dpx-header",
+  "version": "0.1.0",
+  "description": "DPX Header Editor for NodeJs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/flavienliger/dpx-header.git"
+  },
+  "keywords": [
+    "image",
+    "header",
+    "metadata",
+    "timecode",
+    "dpx",
+    "format",
+    "sdpx"
+  ],
+  "author": {
+    "name": "Flavien Liger"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "binary-file": "https://github.com/flavienliger/node-binary-file/tarball/master"
+  },
+  "bugs": {
+    "url": "https://github.com/flavienliger/dpx-header/issues"
+  },
+  "homepage": "https://github.com/flavienliger/dpx-header"
+}
